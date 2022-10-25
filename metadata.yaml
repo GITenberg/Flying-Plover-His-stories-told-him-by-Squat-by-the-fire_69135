@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '9742'
     url: http://www.gutenberg.org/2009/agents/9742
     wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+covers:
+- cover_type: archival
+  image_path: 69135-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Roberts, Theodore Goodridge
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7525
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69135#Flying-Plover-His-stories-told-him-by-Squat-by-the-fire
 gutenberg_issued: '2022-10-11'
 identifiers:
   gutenberg: '69135'
